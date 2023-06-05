@@ -1,3 +1,4 @@
-# API project med funktioner til Extrahop
-
-get og put funktioner i Python samt parsing JSON til Python Lists
+# API project med Python 
+til at opsamle data fra Meraki cloud og parsing JSON til Python Lists
+og analysere data og generere excelsheets med relevante informationer 
+som kunden har behov for.
