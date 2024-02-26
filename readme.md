@@ -1,4 +1,4 @@
 # API project med Python 
-til at opsamle data fra Meraki cloud og parsing JSON til Python Lists
-og analysere data og generere excelsheets med relevante informationer 
-som kunden har behov for.
+I had a project for a customer to discover correlation between 4G signal strength and physical locations and I've used Python to extract data via REST API from Cloud data and collected relevant data and presented the data in excel reports using Python. 
+
+#Parsing JSON to Python list
